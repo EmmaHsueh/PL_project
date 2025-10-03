@@ -1,5 +1,31 @@
-# PL_project 
-114-1 程式語言 
-科技系大二 薛郁蘭
+# Programing Language Project 
 
-• [HW1](HW1.ipynb)
+## ✏️Course Information   
+
+These projects were created as part of a programming course taught by Professor Yun-Cheng Tsai.
+The course integrates AI-assisted learning to help students develop programming skills while cultivating problem-solving skills, innovation, and adaptability in the era of AI.
+
+### Course Objectives
+-  Learn the fundamentals of programming through hands-on projects
+-  Explore AI-assisted tools to support learning and problem-solving
+-  Develop the ability to design, implement, and test solutions effectively
+-  Strengthen teamwork, adaptability, and digital literacy in computing
+
+*****
+
+## 🗓️ Weekly class tasks   
+
+### 🔷 Week 1 : Simple Expense Tracker
+- Step-by-Step Expense Entry: The system prompts allow users to input the date, item, amount, category, and payment method sequentially to complete a full expense record.
+- Quick Total Expense Calculation: The program quickly reads all records and calculates the total amount of all expenses.
+- Easy Cost Sharing: Allows you to input the number of people splitting the cost, and the program instantly calculates the average amount each person should pay.
+- Terminal Interaction: Uses a simple numerical menu to select either the "Record" or "Calculate" function.
+
+[Simple Expense Tracker Link Path](HW1.ipynb)
+  
+### 🔷 Week 2 : Visual Expense Management Application
+
+
+
+
+
