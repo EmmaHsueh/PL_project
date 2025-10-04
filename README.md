@@ -25,7 +25,7 @@ The course integrates AI-assisted learning to help students develop programming 
   
 ### 🔷 Week 2 : Visual Expense Management Application
 
-[VisualExpenseManagementApplication](VisualExpenseManagementApplication(日常支出_gradio).ipynb)
+[VisualExpenseManagementApplication](Visual_Expense_Management_Application(日常支出_gradio).ipynb)
 
 
 
