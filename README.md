@@ -13,40 +13,32 @@ The course integrates AI-assisted learning to help students develop programming 
 
 *****
 
-## 🗓️ Weekly class tasks   
-These are small in-class projects completed each week.They focus on practicing fundamental programming skills, with simple local interfaces and minimal design elements.Each project emphasizes functionality and hands-on learning over visual presentation.
+## 🗓️ Weekly class notes   
 
-### 🔷 Week 1 : Simple Expense Tracker
+This section includes weekly notes and small practice exercises completed during class.Each note may contain code snippets, logic flow examples, or AI-assisted learning experiments that document the weekly learning progress.
+
+### 🔷 Week 1   
+
+### 🔷 Week 2
+
+*****
+
+## 📚Assignments 
+
+These are more comprehensive projects assigned throughout the course.They feature greater completeness and often include visualized user interfaces, emphasizing both usability and aesthetic design.Each project emphasizes functionality and hands-on learning over visual presentation.
+
+### 🔶 Assignment 1 : Visual Expense Management Application
 - Step-by-Step Expense Entry: The system prompts allow users to input the date, item, amount, category, and payment method sequentially to complete a full expense record.
 - Quick Total Expense Calculation: The program quickly reads all records and calculates the total amount of all expenses.
 - Easy Cost Sharing: Allows you to input the number of people splitting the cost, and the program instantly calculates the average amount each person should pay.
 - Terminal Interaction: Uses a simple numerical menu to select either the "Record" or "Calculate" function.
 
-[Simple Expense Tracker Link Path](Simple_Expense_Tracker(日常支出).ipynb)
+[Assignment 1 Link Path](Visual_Expense_Management_Application(日常支出_gradio).ipynb)   
+
+ **side project:**   [Simple Expense Tracker Link Path](Simple_Expense_Tracker(日常支出).ipynb)     
   
-### 🔷 Week 2 : Visual Expense Management Application
-
-[VisualExpenseManagementApplication](Visual_Expense_Management_Application(日常支出_gradio).ipynb)   
-
-### 🔷 Week 3 : 
-
-
-*****
-
-## 📚Assignment
-These are more comprehensive projects assigned throughout the course.They feature greater completeness and often include visualized user interfaces, emphasizing both usability and aesthetic design.  
-
-### 🔶 Assignment 1 : Visual Expense Management Application
-
-[Assignment 1 Link Path](Visual_Expense_Management_Application(日常支出_gradio).ipynb)
-
-
 ### 🔶 Assignment 2 : 
 
 [Assignment 2 Link Path](https://colab.research.google.com/drive/1A9-MVVQGqK42W2qIwLZFXIFjeJznY1c0?usp=sharing)
-
-
-
-
 
 
