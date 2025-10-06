@@ -2,8 +2,7 @@
 
 ## ✏️Course Information   
 
-These projects were created as part of a programming course taught by Professor Yun-Cheng Tsai.
-The course integrates AI-assisted learning to help students develop programming skills while cultivating problem-solving skills, innovation, and adaptability in the era of AI.
+These projects were created as part of a programming course taught by **Professor Yun-Cheng Tsai**.The course integrates AI-assisted learning to help students develop programming skills while cultivating problem-solving skills, innovation, and adaptability in the era of AI.
 
 ### Course Objectives
 -  Learn the fundamentals of programming through hands-on projects
