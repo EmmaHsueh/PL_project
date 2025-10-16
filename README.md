@@ -40,9 +40,7 @@ These are more comprehensive projects assigned throughout the course.They featur
 - **Automatic Health Data Recording :**
 The system automatically records the user’s daily health data — including blood pressure, blood sugar, diet, and alcohol consumption — into a connected Google Sheet for long-term tracking.   
 - **Personalized AI Health Suggestion :**
-Uses Google’s Gemini model to generate concise and personalized health recommendations in Traditional Chinese based on the user’s daily input.  
-- **Real-Time Web Interaction :**
-Provides an intuitive Gradio web interface that allows users to input data and instantly receive AI-generated suggestions.
+Uses Google’s Gemini model to generate concise and personalized health recommendations based on the user’s daily input.  
 - **Seamless AI Integration :**
 Combines health tracking and AI assistance in one workflow, making daily wellness management simple and interactive.
 
