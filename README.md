@@ -27,16 +27,25 @@ This section includes weekly notes and small practice exercises completed during
 These are more comprehensive projects assigned throughout the course.They feature greater completeness and often include visualized user interfaces, emphasizing both usability and aesthetic design.Each project emphasizes functionality and hands-on learning over visual presentation.
 
 ### 🔶 Assignment 1 : Visual Expense Management Application
-- Step-by-Step Expense Entry: The system prompts allow users to input the date, item, amount, category, and payment method sequentially to complete a full expense record.
-- Quick Total Expense Calculation: The program quickly reads all records and calculates the total amount of all expenses.
-- Easy Cost Sharing: Allows you to input the number of people splitting the cost, and the program instantly calculates the average amount each person should pay.
-- Terminal Interaction: Uses a simple numerical menu to select either the "Record" or "Calculate" function.
+- **Step-by-Step Expense Entry:** The system prompts allow users to input the date, item, amount, category, and payment method sequentially to complete a full expense record.
+- **Quick Total Expense Calculation:** The program quickly reads all records and calculates the total amount of all expenses.
+- **Easy Cost Sharing:** Allows you to input the number of people splitting the cost, and the program instantly calculates the average amount each person should pay.
+- **Terminal Interaction:** Uses a simple numerical menu to select either the "Record" or "Calculate" function.
 
 [Assignment 1 Link Path](Visual_Expense_Management_Application(日常支出_gradio).ipynb)   
 
  **side project:**   [Simple Expense Tracker Link Path](Simple_Expense_Tracker(日常支出).ipynb)     
   
 ### 🔶 Assignment 2 : 
+- **Automatic Health Data Recording :**
+The system automatically records the user’s daily health data — including blood pressure, blood sugar, diet, and alcohol consumption — into a connected Google Sheet for long-term tracking.   
+- **Personalized AI Health Suggestion :**
+Uses Google’s Gemini model to generate concise and personalized health recommendations in Traditional Chinese based on the user’s daily input.  
+- **Real-Time Web Interaction :**
+Provides an intuitive Gradio web interface that allows users to input data and instantly receive AI-generated suggestions.
+- **Seamless AI Integration :**
+Combines health tracking and AI assistance in one workflow, making daily wellness management simple and interactive.
+
 
 [Assignment 2 Link Path](https://colab.research.google.com/drive/1A9-MVVQGqK42W2qIwLZFXIFjeJznY1c0?usp=sharing)
 
