@@ -47,4 +47,15 @@ Combines health tracking and AI assistance in one workflow, making daily wellnes
 
 [Assignment 2 Link Path](https://colab.research.google.com/drive/1A9-MVVQGqK42W2qIwLZFXIFjeJznY1c0?usp=sharing)
 
+### 🔶 Assignment 3 :   
+
+
+[Assignment 3 Link Path](FinanceTracker_and_ManagementTool.ipynb)
+
+
+
+### 🔶 Assignment 4 : 
+
+[Assignment 4 Link Path](Automated_Financial_News_Analysis_System.ipynb)
+
 
