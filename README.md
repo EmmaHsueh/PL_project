@@ -59,3 +59,11 @@ Combines health tracking and AI assistance in one workflow, making daily wellnes
 [Assignment 4 Link Path](Automated_Financial_News_Analysis_System.ipynb)
 
 
+### 🔶 Assignment 5 : 
+
+
+### 🔶 Assignment 6 : 
+
+
+[Assignment 6 Link Path](Ebook_Reading_Notes_System.ipynb)
+
