@@ -59,12 +59,22 @@ Combines health tracking and AI assistance in one workflow, making daily wellnes
 [Assignment 4 Link Path](Automated_Financial_News_Analysis_System.ipynb)
 
 
-### 🔶 Assignment 5 : 
+### 🔶 Assignment 5 : Parking Space 
 
 [Assignment 5 Link Path](ＨＷ5.ipynb)
 
-### 🔶 Assignment 6 : 
+### 🔶 Assignment 6 : E-book Reading Notes
 
+
+
+- **PDF Analysis:**   
+Automatically parses the entire PDF e-book, extracts all textual content, and detects any yellow-highlighted annotations made by the reader. The system also calculates total page count and tracks reading progress.
+- **Time Tracking:**   
+Performs weekly reading statistics based on the Taiwan time zone, allowing users to monitor the number of pages and time spent reading each week. Users can set weekly reading goals, and the system further compiles annual reading performance into a clear yearly report to help users build long-term reading habits.
+- **AI-Powered Features:**   
+By entering a page number, the AI instantly generates a concise summary of that page. Users can also ask any question related to the book’s content through the intelligent Q&A feature. Additionally, the system automatically selects 3–5 of the most valuable highlighted sentences each week to generate a “Weekly Quote Selection.”
+- **Export Feature:**   
+All reading data and analysis results can be exported into an Excel file. The system automatically generates structured worksheets, enabling users to easily save, organize, and share their reading insights.
 
 [Assignment 6 Link Path](Ebook_Reading_Notes_System.ipynb)
 
