@@ -61,6 +61,7 @@ Combines health tracking and AI assistance in one workflow, making daily wellnes
 
 ### 🔶 Assignment 5 : 
 
+[Assignment 5 Link Path](ＨＷ5.ipynb)
 
 ### 🔶 Assignment 6 : 
 
